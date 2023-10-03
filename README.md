@@ -1,8 +1,8 @@
 # Data-Analysis_Data-Immersion
-Discover Python scripts from Career Foundry's Data Analyst course. Learn data analysis fundamentals, environment setup, and master pandas, the popular Python library for analytical tasks. 🐼
+Discover Python scripts from Career Foundry's Data Analyst course. 
 
 ## About the project
-This project is part of the Career Foundry Data Analysis course. The objective is to build an interactive dashboard that will visually showcase well-curated results of an advanced exploratory analysis conducted in Python. I used a sample project "UN Sustainable development goals - goal 7"
+This project is part of the Career Foundry Data Analysis course. The objective is to build an interactive dashboard that will visually showcase well-curated results of an advanced exploratory analysis conducted in Python. I used a sample project "UN Sustainable Development Goals - goal 7"
 
 ## Exercises 
 Exercise 6.1: Sourcing Open Data
@@ -69,6 +69,8 @@ https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indic
 For the project, the following Python libraries were used:
 - pandas - for data analysis
 - seaborn - for visualisation
+
+- Tableau - presentation & visualisation
  
 ## Executing the code
 The code is available in jupyter notebooks, available under /03 scripts/
