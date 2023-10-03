@@ -23,14 +23,12 @@ Sustainable Development Goal 7 is to “ensure access to affordable, reliable, s
 The visualizations and data below present the global perspective on where the world stands today and how it has changed over time.
 
 ### About the data set
-The dataset used in this analysis is a comprehensive collection of sustainable energy indicators and related factors for all countries spanning the years from 2000 to 2020. It encompasses a wide range of critical aspects, including electricity access, renewable energy, carbon emissions, energy intensity, financial flows, and economic growth. The data has been meticulously curated from various reliable sources, primarily the World Bank, the International Energy Agency, and ourworldindata.org. Additionally, some columns and features have been derived from other top Kaggle datasets, ensuring a rich and multifaceted dataset.![image](https://github.com/NININOO/Data_Analysis-Data-Immersion/assets/85222999/536fc7c1-f768-4181-9123-5859d5792c23)
-
+The dataset used in this analysis is a comprehensive collection of sustainable energy indicators and related factors for all countries spanning the years from 2000 to 2020. It encompasses a wide range of critical aspects, including electricity access, renewable energy, carbon emissions, energy intensity, financial flows, and economic growth. The data has been meticulously curated from various reliable sources, primarily the World Bank, the International Energy Agency, and ourworldindata.org. Additionally, some columns and features have been derived from other top Kaggle datasets, ensuring a rich and multifaceted dataset.
 
 ### Data Source
 Global Data on Sustainable Energy (2000-2020)
 https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy?resource=download
 
-![image](https://github.com/NININOO/Data_Analysis-Data-Immersion/assets/85222999/54283304-dfdf-4bab-8565-a6fbdcf76ce9)
 
 ### Data Collection
 1.	Data for access to electricity are collected among different sources: mostly data from nationally representative household surveys were used.  
@@ -41,7 +39,6 @@ https://ghoapi.azureedge.net/api/
 https://unstats.un.org/sdgs/metadata/files/Metadata-07-02-01.pdf
 4.	This indicator is obtained by dividing total primary energy supply over gross domestic product measured in constant 2017 US dollars at purchasing power parity.
 https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators
-![image](https://github.com/NININOO/Data_Analysis-Data-Immersion/assets/85222999/934ccc0b-2edb-417e-af18-6b24bfe5e03c)
 
 
 ### Data Profile
@@ -66,7 +63,6 @@ https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indic
 19.	Land Area (Km2): Total land area in square kilometers.
 20.	Latitude: Latitude of the country's centroid in decimal degrees.
 21.	Longitude: Longitude of the country's centroid in decimal degrees.
-![image](https://github.com/NININOO/Data_Analysis-Data-Immersion/assets/85222999/c18b2e0e-3f47-4885-8e07-70ab15fc95c9)
 
 
 ## Tools
